@@ -23,10 +23,6 @@ Este repositório é um espaço super especial onde pratico e aprimoro meus conh
 
 Para começar a explorar este mundo mágico de Java, você pode clonar este repositório fofinho com o comando:
 
-```bash
-git clone https://github.com/EdiellyF/repositorio-de-estudos-java.git
-
-
 ## 📂 Estrutura do Repositório
 Aqui está como organizei meus estudos:
 
