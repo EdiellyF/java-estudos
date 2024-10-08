@@ -19,9 +19,5 @@ public class Programm {
         double c = CurrencyConverter.calcularDollar(dollar,buy);
         System.out.printf("Amount to be paid in reais  %.2f%=", c );
 
-        
-
-
-
     }
 }

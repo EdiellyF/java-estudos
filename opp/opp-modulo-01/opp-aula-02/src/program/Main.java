@@ -11,13 +11,15 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Produto produto = new Produto();
         System.out.print("Digite o nome:");
-             produto.name = sc.next();
+             String name = sc.next();
         System.out.print("o preço:");
-             produto.price = sc.nextDouble();
-        System.out.print("Digite a quantidade no estoque:");
-            produto.quantity = sc.nextInt();
+            double  price = sc.nextDouble();
+  
+
+        Produto produto = new Produto(name, price);
+
+
 
             System.out.println();
             System.out.println("Produto data: " + produto);
