@@ -1,2 +1,4 @@
-package br.com.softhouse;public class MinhaClasse {
+package br.com.softhouse;
+
+public class MinhaClasse {
 }
