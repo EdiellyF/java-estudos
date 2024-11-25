@@ -5,6 +5,13 @@ public class Employee {
     private Integer Hours;
     private Double valuePerHour;
 
+    public Employee (String name, Integer hours, Double valuePerHour){
+        setName(name);
+        setHours(hours);
+        setValuePerHour(valuePerHour);
+    }
+
+
     public String getName() {
         return name;
     }
@@ -34,5 +41,8 @@ public class Employee {
         return valuePerHour * Hours;
     }
 
-
+    @Override
+    public String toString() {
+        return getName() + " - " + payment();
+    }
 }

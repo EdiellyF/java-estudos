@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bb5f4c4-65ea-4891-ad9f-b817774f0ed2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/exercicio-01-polimorfismo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01-polimorfismo/src/entities/OutsourcedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/exercicio-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/src/entities/Departament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/src/entities/HourContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/src/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-01/src/enums/WorkerLevelEnums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/exercicio-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/src/entities/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-02/src/entities/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/exercicio03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/src/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/src/entities/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/src/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/bin/application/Programm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/bin/util/CurrencyConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/src/application/Programm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/exercicio-fixacao-modulo1-opp/src/util/CurrencyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/bin/application/Programm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/bin/util/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/src/application/Programm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/membros-estaticos/src/util/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/bin/application/program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/bin/entities/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/src/application/program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-01/src/entities/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/bin/entities/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/bin/entities/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/bin/program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/src/entities/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-aula-02/src/program/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/bin/aplicattion/Programm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/bin/entities/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/src/aplicattion/Programm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-02/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/bin/entities/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/bin/programm/Aplicattion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/src/entities/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicio-base-03/src/programm/Aplicattion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/bin/aplication/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/bin/entities/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/src/aplication/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-01/opp-exercicios-base/src/entities/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/OPP-AULA/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/OPP-AULA/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/OPP-AULA/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/OPP-AULA/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/Solucaoleetcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/bin/br/com/softhouse/MinhaClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/bin/br/com/softhouse/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/bin/entities/ContaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/bin/entities/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/bin/programm/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/src/br/com/softhouse/MinhaClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/src/br/com/softhouse/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/src/entities/ContaBancaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/src/entities/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/conta-bancaria/src/programm/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opp-modulo-02/opp-atividade-final-modulo-2/opp-atividade-final-modulo-2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pGcxnNoD2EAYp2sfVPPWgzrSPM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ediel/Documents/workspace-vscode/java-estudos/opp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ediel/Documents/workspace-vscode/java-estudos/opp/exercicio-fixacao/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="exercicio-fixacao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bb5f4c4-65ea-4891-ad9f-b817774f0ed2" name="Changes" comment="" />
+      <created>1732396101930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732396101930</updated>
+      <workItem from="1732396102983" duration="1952000" />
+      <workItem from="1732530898151" duration="592000" />
+      <workItem from="1732535026841" duration="4027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
