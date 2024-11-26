@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/classes-abstratas.iml" filepath="$PROJECT_DIR$/classes-abstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayexample.iml" filepath="$PROJECT_DIR$/arrayexample.iml" />
     </modules>
   </component>
 </project>
