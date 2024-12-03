@@ -31,7 +31,7 @@ public class Main {
                 line = br.readLine();
             }
 
-          String pathOut = "C:\\Users\\ediel\\Documents\\workspace-vscode\\java-estudos\\opp\\arquivos_java_projeto_atividade\\src\\out\\summary.csv";
+          String pathOut = "workspace-vscode\\java-estudos\\opp\\arquivos_java_projeto_atividade\\src\\out\\summary.csv";
 
               try(BufferedWriter bw = new BufferedWriter(new FileWriter(pathOut))) {
                     for (Item produto: itens){
