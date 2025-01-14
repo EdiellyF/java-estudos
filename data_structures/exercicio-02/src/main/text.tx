@@ -1,0 +1,11 @@
+- classe professor
+     - quantidade de cursos
+     - nome de curso
+
+- classe curso
+     - nome curso
+     - professor associado
+     - quantidade de alunos
+
+- classe estudante
+     - id estudante
